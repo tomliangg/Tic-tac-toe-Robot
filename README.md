@@ -1,2 +1,3 @@
 # Tic-tac-toe-Robot
-RobotC code works on Lego EV3 Mindstorms robot
+MSE110 - Mechatronics Design I Project
+Lego EV3 Mindstorms robot that can play tic-tac-toe against human players
